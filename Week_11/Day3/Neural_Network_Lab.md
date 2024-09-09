@@ -15,12 +15,12 @@ Welcome to the Neural Network Lab! You will apply your newly acquired knowledge 
    - **Scale numerical variables** like income and claim amounts to ensure smooth model training (using techniques like standardization or normalization).
 
 3. **Create the Neural Network Class**  
-   Implement a neural network model using libraries like `PyTorch`, `TensorFlow`, or `Keras`. The model should:
+   Implement a neural network model using `PyTorch`. The model should:
    - Take the customer features as input.
    - Output the predicted total claim amount.
 
 4. **Train the Network**  
-   Train the neural network on the training dataset. Use appropriate loss functions (e.g., Mean Squared Error) and optimizers (e.g., Adam, SGD). Tune hyperparameters like learning rate, epochs, and batch size.
+   Train the neural network on the training dataset. Use appropriate loss functions (e.g., Mean Squared Error) and optimizers (e.g., Adam, SGD). Tune hyperparameters like learning rate and epochs.
 
 5. **Evaluate the Model**  
    Evaluate the neural network performance on the testing dataset. Use evaluation metrics like **Mean Squared Error (MSE)** or **R-squared** to assess model accuracy.
